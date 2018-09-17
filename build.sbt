@@ -4,7 +4,7 @@ lazy val core = project.in(file("."))
       name := "system-effect"
     )
 
-val catsV = "1.2.0"
+val catsV = "1.4.0"
 val catsEffectV = "0.10.1"
 
 val specs2V = "4.3.3"
